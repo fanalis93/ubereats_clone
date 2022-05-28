@@ -1,4 +1,4 @@
-import { View, Text, SafeAreaView } from "react-native";
+import { View, Text, SafeAreaView, StyleSheet } from "react-native";
 import React from "react";
 import HeaderTabs from "../components/HeaderTabs";
 
@@ -11,7 +11,9 @@ export default function Home() {
 }
 const styles = StyleSheet.create({
   container: {
-    marginTop: 10,
-    justfiyContent: "center",
+    flex: 1,
+    // justifyContent: "center",
+    // padding: 8,
+    // marginTop: 20,
   },
 });
