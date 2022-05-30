@@ -7,14 +7,14 @@ export default function HeaderTabs() {
     <View
       style={{
         flexDirection: "row",
-        // alignSelf: "center",
+        alignSelf: "center",
         // backgroundColor: "teal",
-        height: "10%",
-        width: "100%",
-        alignItems: "center",
-        justifyContent: "center",
-        paddingTop: 15,
-        backgroundColor: "#fff",
+        // height: "12%",
+        // width: "100%",
+        // alignItems: "center",
+        // justifyContent: "center",
+        // paddingTop: 25,
+        // backgroundColor: "#fff",
       }}
     >
       <HeaderButton
