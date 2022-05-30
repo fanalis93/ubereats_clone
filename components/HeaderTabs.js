@@ -14,6 +14,7 @@ export default function HeaderTabs() {
         alignItems: "center",
         justifyContent: "center",
         paddingTop: 15,
+        backgroundColor: "#fff",
       }}
     >
       <HeaderButton

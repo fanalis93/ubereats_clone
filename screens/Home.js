@@ -15,5 +15,6 @@ const styles = StyleSheet.create({
     // justifyContent: "center",
     // padding: 8,
     // marginTop: 20,
+    backgroundColor: "#eee",
   },
 });
